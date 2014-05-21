@@ -1,0 +1,25 @@
+{
+    "docs": ["posts"],
+    "template": "default",
+    "domain_alias": ["your.domain"],
+    "perpage": 10,
+    "order": "number",
+    "types": {
+        "\\.(md||markdown)$": "markdown",
+        "\\.(js||css||json)$": "code",
+        "\\.html?$": "html",
+        ".*": "text"
+    },
+    "title": "mingdd",
+    "description": "This is mingdd's house..",
+    "comment": "on",
+    "friends": [{
+        "name": "github",
+        "title": "github",
+        "url": "http://github.com"
+    }, {
+        "name": "gitpress",
+        "title": "gitpress",
+        "url": "http://gitpress.org"
+    }]
+}
