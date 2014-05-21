@@ -11,9 +11,9 @@
         "comment"     : {"type": "duoshuo", "short_name": "xufei"},
         "friends"  : [
                 {
-                        "name" : "月影MM",
-                        "title": "十年踪迹的博客",
-                        "url"  :  "http://blog.silverna.org/"
+                        "name" : "github",
+                        "title": "github",
+                        "url"  :  "http://github.com"
                 }
         ] 
 }
