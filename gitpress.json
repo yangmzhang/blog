@@ -8,7 +8,7 @@
                 ".*"                   : "text"                
         },
         "title"  : "mingdd",
-        "comment"     : {"type": "duoshuo", "short_name": "xufei"},
+        "comment"     : {"type": "duoshuo", "short_name": "mingdd"},
         "friends"  : [
                 {
                         "name" : "github",
